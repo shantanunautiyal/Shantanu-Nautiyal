@@ -5,13 +5,12 @@
 <h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Shantanu Nautiyal!!</h1>
 
                                               S H A N T A N U  N A U T I Y A L 👨🏻‍💻✨
-                                      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Ui+%2F+UX+Designer;CAD+Designer)](https://git.io/typing-svg)
- 
+                                
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Web+Developer;Ui+%2F+UX+Designer;CAD+Designer)](https://git.io/typing-svg)
 
 
 [![Twitter: nautiyal_shaan](https://img.shields.io/twitter/follow/nautiyal_shaan?style=social)](https://twitter.com/nautiyal_shaan)
-[![Linkedin: shantanu-nautiyal](https://img.shields.io/badge/-shantanu-nautiyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-nautiyal/)](https://www.linkedin.com/in/shantanu-nautiyal/)
+[![Linkedin: shantanu-nautiyal](https://img.shields.io/badge/-shantanunautiyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-nautiyal/)](https://www.linkedin.com/in/shantanu-nautiyal/)
 [![GitHub: ShantanuNautiyal](https://img.shields.io/github/followers/ShantanuNautiyal?label=follow&style=social)](https://github.com/ShantanuNautiyal/)
 
 <p align="center">
@@ -25,7 +24,7 @@
 - 💬 Ask me about C, Web Development, UI / UX Designing, CAD Designing, Figma, Adobe XD
 - 📃 Resume - [Resume](https://shantanu-nautiyal-portfolio.vercel.app/resume/Shantanu%20Nautiyal%20Resume.pdf)
 - 💼 Portfolio - [Portfolio](https://shantanu-nautiyal-portfolio.vercel.app/)
-- 📫 How to reach me: [linkedin:@Shantanu-Nautiyal](https://www.linkedin.com/in/Shantanu-nautiyal) , [Instagram@ShantanuNautiyal](https://www.instagram.com/shantanu.nautiyal)
+- 📫 How to reach me: [Linkedin:@Shantanu-Nautiyal](https://www.linkedin.com/in/Shantanu-nautiyal) , [Instagram@ShantanuNautiyal](https://www.instagram.com/shantanu.nautiyal)
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
@@ -63,7 +62,7 @@
 
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
--Check out here  [https://shantanu-nautiyal-portfolio.vercel.app/](https://shantanu-nautiyal-portfolio.vercel.app/index.html)
+-Check out here  [shantanu-nautiyal-portfolio.vercel.app](https://shantanu-nautiyal-portfolio.vercel.app/index.html)
 <br/>
 
 ---
@@ -77,7 +76,6 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) 
   ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-- 🛢 &nbsp;  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
