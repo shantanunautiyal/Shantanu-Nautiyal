@@ -22,7 +22,7 @@
 - 🎓 I'm a Final Year Student.
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about C, Web Development, UI / UX Designing, CAD Designing, Figma, Adobe XD
-- 📃 Resume - [Resume](https://drive.google.com/file/d/1cDuHfNswfpYspTgGEYUc-elY09YL0qrS/)
+- 📃 Resume - [Resume](https://drive.google.com/drive/folders/1OwC5M27fsk72OzUIzXEc5ij6_b0xYhxR/)
 - 💼 Portfolio - [Portfolio](https://shantanu-nautiyal-portfolio.vercel.app/)
 - 📫 How to reach me: [Linkedin:@Shantanu-Nautiyal](https://www.linkedin.com/in/Shantanu-nautiyal) , [Instagram@ShantanuNautiyal](https://www.instagram.com/shantanu.nautiyal)
 - 😄 Pronouns: He/His
