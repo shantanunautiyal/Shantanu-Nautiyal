@@ -21,7 +21,7 @@
 
 - 🎓 I'm a Final Year Student.
 - 🌱 I’m currently learning Web Development
-- 💬 Ask me about C, Web Development, UI / UX Designing, CAD Designing, Figma, Adobe XD
+- 💬 Ask me about Html, Javascript, Css, Bootstrap, Tailwind CSS, C, Web Development, UI / UX Designing, CAD Designing, Figma, Adobe XD
 - 📃 Resume - [Resume](https://drive.google.com/drive/folders/1OwC5M27fsk72OzUIzXEc5ij6_b0xYhxR/)
 - 💼 Portfolio - [Portfolio](https://shantanu-nautiyal-portfolio.vercel.app/)
 - 📫 How to reach me: [Linkedin:@Shantanu-Nautiyal](https://www.linkedin.com/in/Shantanu-nautiyal) , [Instagram@ShantanuNautiyal](https://www.instagram.com/shantanu.nautiyal)
@@ -87,7 +87,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <div align="center">
