@@ -19,7 +19,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
-- 🎓 I'm a Final Year Student.
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about Html, Javascript, Css, Bootstrap, Tailwind CSS, C, Web Development, UI / UX Designing, CAD Designing, Figma, Adobe XD
 - 📃 Resume - [Resume](https://drive.google.com/drive/folders/1OwC5M27fsk72OzUIzXEc5ij6_b0xYhxR/)
