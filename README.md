@@ -19,8 +19,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
-- 🌱 I’m currently learning Web Development
-- 💬 Ask me about Html, Javascript, Css, Bootstrap, Tailwind CSS, C, Web Development, UI / UX Designing, CAD Designing, Figma, Adobe XD
+- 🌱 Working as a UI Designer
+- 💬 Ask me about AI, ChatGPT, UI / UX Designing, Enhancing user experience, Prompt Engineering, Html, Javascript, Css, Bootstrap, Tailwind CSS, C, Web Development, CAD Designing, Figma, Adobe XD
 - 📃 Resume - [Resume](https://drive.google.com/file/d/1gMcpFSLIioXMODOAViSbgDg6kRVs6QCL/view)
 - 💼 Portfolio - [Portfolio](https://shantanu-nautiyal-portfolio.vercel.app/)
 - 📫 How to reach me: [Linkedin:@Shantanu-Nautiyal](https://www.linkedin.com/in/Shantanu-nautiyal) , [Instagram@ShantanuNautiyal](https://www.instagram.com/shantanu.nautiyal)
